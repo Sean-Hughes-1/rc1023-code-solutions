@@ -1,0 +1,91 @@
+const orderHistory = [
+  {
+    orderNumber: '114-3941689-8772232',
+    orderPlaced: 'Aug 4, 2020',
+    total: 34.0,
+    currency: 'usd',
+    shipTo: 'JS Masher',
+    delivered: 'Aug 8, 2020',
+    itemsOrdered: [
+      {
+        type: 'book',
+        itemName: 'JavaScript for impatient programmers',
+        author: 'Rauschmayer, Dr. Axel',
+        price: 31.55,
+        currency: 'usd',
+        productImage: '/images/JSforImpatientProgrammers.jpg',
+        returnWindowOpen: false,
+        returnWindowDate: 'Sep 7, 2020',
+      },
+    ],
+  },
+  {
+    orderNumber: '113-9984268-1280257',
+    orderPlaced: 'Jul 19, 2020',
+    total: 44.53,
+    currency: 'usd',
+    shipTo: 'JS Masher',
+    delivered: 'Jul 20, 2020',
+    itemsOrdered: [
+      {
+        type: 'book',
+        itemName: 'The Timeless Way of Building',
+        author: 'Alexander, Christopher',
+        price: 41.33,
+        currency: 'usd',
+        productImage: '/images/Ttmwb.jpg',
+        returnWindowOpen: false,
+        returnWindowDate: 'Aug 19, 2020',
+      },
+    ],
+  },
+  {
+    orderNumber: '114-2875557-9059409',
+    orderPlaced: 'Jul 4, 2020',
+    total: 17.22,
+    currency: 'usd',
+    shipTo: 'JS Masher',
+    delivered: 'Jul 7, 2020',
+    itemsOrdered: [
+      {
+        type: 'electronics',
+        itemName:
+          'Gamecube Controller Adapter. Super Smash Bros Switch Gamecube Adapter for WII U, PC. Support Turbo and Vibration Features. No Driver and No Lag-Gamecube Adapter',
+        price: 15.98,
+        currency: 'usd',
+        productImage: '/images/cubeGame.jpg',
+        returnWindowOpen: true,
+      },
+    ],
+  },
+  {
+    orderNumber: '114-3941689-8772232',
+    orderPlaced: 'July 3, 2020',
+    total: 138.93,
+    currency: 'usd',
+    shipTo: 'JS Masher',
+    delivered: 'Jul 5, 2020',
+    itemsOrdered: [
+      {
+        type: 'electronics',
+        itemName:
+          'GameCube Controller - Super Smash Bros. Edition (Nintendo Switch)',
+        price: 94.95,
+        currency: 'usd',
+        productImage: '/images/gamController.jpg',
+        returnWindowOpen: false,
+        returnWindowDate: 'Aug 4, 2020',
+      },
+      {
+        type: 'book',
+        itemName: 'The Art Sql',
+        author: 'Faroult, Stephane',
+        price: 33.99,
+        currency: 'usd',
+        productImage: '/images/artOfSql.jpg',
+        returnWindowOpen: false,
+        returnWindowDate: 'Aug 4, 2020',
+      },
+    ],
+  },
+];
