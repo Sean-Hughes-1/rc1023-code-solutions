@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+thead {
+  color: white;
+  background-color: black;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: lightgray;
+}
