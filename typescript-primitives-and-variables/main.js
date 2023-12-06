@@ -1,0 +1,15 @@
+var fullName = 'Sean Hughes';
+var isCool = true;
+var totalPets = 4;
+console.log('Full Name: ', fullName);
+console.log('is Cool: ', isCool);
+console.log('Total Pets: ', totalPets);
+console.log('Type of fullName: ', typeof fullName);
+console.log('Type of isCool: ', typeof isCool);
+console.log('Type of totalPets: ', typeof totalPets);
+var unknown = null;
+console.log('unknown: ', unknown);
+console.log('Type of unknown: ', typeof unknown);
+var never;
+console.log('never: ', never);
+console.log('Type of never: ', typeof never);
