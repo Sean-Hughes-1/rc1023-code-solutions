@@ -1,0 +1,15 @@
+const fullName: string = 'Sean Hughes';
+const isCool: boolean = true;
+const totalPets: number = 4;
+console.log('Full Name: ', fullName);
+console.log('is Cool: ', isCool);
+console.log('Total Pets: ', totalPets);
+console.log('Type of fullName: ', typeof fullName);
+console.log('Type of isCool: ', typeof isCool);
+console.log('Type of totalPets: ', typeof totalPets);
+const unknown: null = null;
+console.log('unknown: ', unknown);
+console.log('Type of unknown: ', typeof unknown);
+let never: undefined;
+console.log('never: ', never);
+console.log('Type of never: ', typeof never);
