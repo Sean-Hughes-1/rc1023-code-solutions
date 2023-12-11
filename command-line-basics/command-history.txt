@@ -1,0 +1,356 @@
+    1  git status
+    2  git switch main
+    3  git pull origin main
+    4  git branch css-three-column-layout
+    5  git switch css-three-column-layout
+    6  git add css-three-column-layout/
+    7  git status
+    8  git commit -m "Completed CSS three column layout"
+    9  git status
+   10  git add css-three-column-layout/
+   11  git commit -m "Completed css three column layout"
+   12  git status
+   13  git add css-three-column-layout/
+   14  git status
+   15  git commit -m "Completed css three column layout"
+   16  git push origin css-three-column-layout 
+   17  git switch main
+   18  git pull origin main
+   19  git branch css-two-column-layout
+   20  git switch css-two-column-layout
+   21  git switch main
+   22  git pull origin main
+   23  git branch css-positioning
+   24  git switch css-positioning 
+   25  git status
+   26  git add css-positioning/
+   27  git status
+   28  git commit -m "Completed CSS positioning"
+   29  git push origin css-positioning 
+   30  git switch main
+   31  git pull origin main
+   32  git branch css-cascade
+   33  git switch css-cascade
+   34  git status
+   35  git add css-cascade
+   36  git status
+   37  git commit -m "Completed css cascade"
+   38  git push origin css-cascade 
+   39  git switch min
+   40  git switch main
+   41  git pull origin main
+   42  git branch dom-querying
+   43  git switch dom-querying 
+   44  git status
+   45  git add dom-querying/
+   46  git commit -m "Completed dom-querying"
+   47  git push origin dom-querying 
+   48  git switch main
+   49  git pull origin main
+   50  git branch dom-events
+   51  git switch dom-events
+   52  git status
+   53  git add dom-events
+   54  git status
+   55  git commit -m "Completed dom events"
+   56  git push origin dom-events 
+   57  git switch main
+   58  git pull origin main
+   59  git branch dom-manipulation
+   60  git switch dom-manipulation
+   61  git add dom-manipulation/
+   62  git status
+   63  git commit -m "completed dom manipulation"
+   64  git push origin dom-manipulation 
+   65  git switch main
+   66  git pull origin main
+   67  git branch css-transforms
+   68  git switch css-transforms 
+   69  git add css-transforms/
+   70  git commit -m "completed CSS transforms"
+   71  git push origin css-transforms 
+   72  git switch main
+   73  git pull origin main
+   74  git branch javascript-light-bulb
+   75  git switch javascript-light-bulb 
+   76  git add javascript-light-bulb/
+   77  git status
+   78  git commit -m "Completed javascript-lightbulb"
+   79  git push origin javascript-light-bulb 
+   80  git switch main
+   81  git branch javascript-modal
+   82  git switch javascript-modal 
+   83  git switch main
+   84  git branch css-transitions
+   85  git switch css-transitions 
+   86  git status
+   87  git add css-transitions/
+   88  git status
+   89  git commit -m "completed css transitions"
+   90  git push origin css-transitions 
+   91  git switch main
+   92  git branch javascript-forms
+   93  git switch javascript-forms 
+   94  git add javascript-forms/
+   95  git commit -m "completed javascript forms"
+   96  git push origin javascript-forms 
+   97  git switch main
+   98  git branch dom-creation
+   99  git switch dom-creation 
+  100  git switch main
+  101  git status
+  102  git add css-flexbox/
+  103  git status
+  104  git switch css-flexbox
+  105  git branch css-flexbox
+  106  git switch css-flexbox
+  107  git status
+  108  git add css-flexbox
+  109  git status
+  110  git commit -m "completed css flexbox"
+  111  git push origin css-flexbox 
+  112  git switch main
+  113  git pull origin main
+  114  git pull origin main
+  115  git pull origin main
+  116  git branch css-layout-classes
+  117  git switch css-layout-classes
+  118  git status
+  119  git add css-layout-classes/
+  120  git status
+  121  git commit -m "Completed css layout classes"
+  122  git push origin css-layout-classes 
+  123  git status
+  124  git add dom-creation
+  125  git commit -m "Completed dom creation"
+  126  git push origin dom-creation
+  127  git switch main
+  128  git pull origin main
+  129  git pull origin main
+  130  git branch dom-event-delegation
+  131  git switch dom-event-delegation 
+  132  git add dom-event-delegation/
+  133  git commit -m "Completed dom event delegation"
+  134  git push origin dom-event-delegation 
+  135  git switch main
+  136  git pull origin main
+  137  git branch css-media-queries
+  138  git switch css-media-queries 
+  139  git add css-media-queries/
+  140  git commit -m "completed media queries"
+  141  git push origin css-media-queries 
+  142  git switch main
+  143  git branch javascript-view-swapping
+  144  git switch javascript-view-swapping 
+  145  git add javascript-view-swapping/
+  146  git commit -m "Completed view swapping"
+  147  git push origin javascript-view-swapping 
+  148  git switch main
+  149  git branch javascript-and-json
+  150  git switch javascript-and-json 
+  151  git add javascript-and-json/
+  152  git commit -m "completed javascript and json"
+  153  git push origin javascript-and-json 
+  154  git switch main
+  155  git pull origin main
+  156  git branch javascript-local-storage
+  157  git switch javascript-local-storage
+  158  git add javascript-local-storage/
+  159  git commit -m "completed local storage"
+  160  git push origin javascript-local-storage 
+  161  git switch main
+  162  git branch css-responsive-layout
+  163  git switch css-responsive-layout 
+  164  git add css-responsive-layout/
+  165  git commit -m "completed css-responsive-layout"
+  166  git push origin css-responsive-layout 
+  167  git switch main
+  168  pwd
+  169  .cd
+  170  cd ..
+  171  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  172  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  173  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  174  cd ..
+  175  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  176  ssh-keygen -R github.com
+  177  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  178  git clone git@github.com:Sean-Hughes-1/code-journal.git
+  179  git clone git@github.com:Sean-Hughes-1/code-journal-1.git
+  180  ls
+  181  git pull origin main
+  182  git pull origin main
+  183  git branch issue-3-user-can-edit-entries
+  184  git switch issue-3-user-can-edit-entries 
+  185  git switch main
+  186  git pull origin main
+  187  git switch issue-3-user-can-edit-entries 
+  188  git status
+  189  git add .
+  190  git status
+  191  git commit -m "wokring on issue-3 user can edit entries"
+  192  git switch main
+  193  git clone git@github.com:Sean-Hughes-1/weekly-planner.git
+  194  cd weekly-planner
+  195  npm install
+  196  cd rc-code-solutions
+  197  cd ..
+  198  cd ..
+  199  git clone git@github.com:Sean-Hughes-1/weekly-planner.git
+  200  cd weekly-planner/
+  201  npm install
+  202  git branch es6-template-literals
+  203  git switch es6-template-literals 
+  204  git status
+  205  git add es6-template-literals/
+  206  git status
+  207  git add es6-template-literals/
+  208  git status
+  209  git commit -m "complested es6 template literals"
+  210  git push origin es6-template-literals 
+  211  git switch main
+  212  git pull origin main
+  213  git branch javascript-timers
+  214  git switch javascript-timers
+  215  git status
+  216  git add javascript-timers/
+  217  git commit -m "Completed javascript timers"
+  218  git push origin javascript-timers
+  219  git switch main
+  220  git pull origin main
+  221  git switch javascript-typing-tutor
+  222  http://example.com
+  223  https://learning-fuze.github.io/example/
+  224  http https://example.com
+  225  http --verbose https://example.com 
+  226  git branch http-messages
+  227  git switch http-messages 
+  228  http --body GET https://jsonplaceholder.typicode.com/users > http-messages/users.json
+  229  http --body GET https://example.com > http-messages/index.html
+  230  git status
+  231  git add http-messages/
+  232  git commit -m "completed http messages"
+  233  git push origin http-messages 
+  234  git switch main
+  235  git branch javascript-ajax
+  236  git switch javascript-ajax 
+  237  git status
+  238  git add javascript-ajax/
+  239  git commit -m "completed javascript ajax"
+  240  git push origin javascript-ajax 
+  241  git status
+  242  git switch main
+  243  npm install
+  244  git status
+  245  git add package-lock.json 
+  246  git add package.json 
+  247  git add tsconfig.json 
+  248  git status
+  249  git commit -m "Completed typescript primitives and variables"
+  250  npm install
+  251  git status
+  252  git add package-lock.json 
+  253  git add package.json 
+  254  git commit -m "Completed typescript primitives and variables"
+  255  git push origin typescript-primitives-and-variables 
+  256  cd typescript-primitives-and-variables/
+  257  cd ..
+  258  git switch main
+  259  git pull origin main
+  260  git branch typescript-operators-and-expressions
+  261  git switch typescript-operators-and-expressions 
+  262  cd typescript-operators-and-expressions
+  263  npx tsc --watch main.ts
+  264  cd ..
+  265  git status
+  266  git add typescript-operators-and-expressions/
+  267  git status
+  268  git commit -m "completed typescript operators and expressions"
+  269  git push origin typescript-operators-and-expressions 
+  270  git switch main
+  271  git pull origin main
+  272  git branch unit-tests-jest
+  273  git switch unit-tests-jest 
+  274  npm install
+  275  npm i --save-dev @types/jest
+  276  npm test
+  277  cd unit-tests-jest
+  278  npm install
+  279  npm install
+  280  npm test
+  281  cd ..
+  282  git status
+  283  git restore package-lock.json 
+  284  git restore package.json 
+  285  git status
+  286  git add unit-tests-jest/
+  287  git status
+  288  git commit -m "unit tests jest excersice"
+  289  git status
+  290  git commit -m"unit tests jest excercise" --no-verify
+  291  git push origin unit-tests-jest 
+  292  git switch main
+  293  git branch typescript-algos
+  294  git switch typescript-algos 
+  295  cd typescript-algos/
+  296  npm install
+  297  npm run test
+  298  cd ..
+  299  git status
+  300  git add typescript-algos/
+  301  git commit -m"Completed typescript algos"
+  302  git push origin typescript-algos 
+  303  git switch main
+  304  git pull origin main
+  305  git branch command-line-basics
+  306  git switch command-line-basics 
+  307  cd command-line-basics/
+  308  man man
+  309  man cat
+  310  man cat
+  311  cat laziness.txt
+  312  cat impatience.txt
+  313  cat hubris.txt
+  314  cat laziness.txt impatience.txt hubris.txt
+  315  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  316  cat three-virtues.txt 
+  317  man ls
+  318  man ls
+  319  ls lfz-staff
+  320  ls lfz-staff -a
+  321  ls lfz-staff -F
+  322  ls -aF lfz-staff > lfz-staff/contents.txt
+  323  cat lfz-staff/contents.txt
+  324  man pwd
+  325  pwd
+  326  pwd > i-was-here.txt
+  327  ls
+  328  cat i-was-here.txt 
+  329  man echo
+  330  echo Hello,World!
+  331  echo 'Hello, World!' > hello.txt
+  332  ls
+  333  cat hello.txt 
+  334  man touch
+  335  touch tag-youre-it.txt
+  336  touch snoot/boop.txt
+  337  ls snoot/
+  338  mkdir parent
+  339  ls
+  340  mkdir -p parent/child
+  341  mkdir -p child/grandchildren
+  342  mkdir -p parent/child/grandchildren
+  343  touch parent/child/grandchild/.gitkeep
+  344  touch parent/child/grandchildren/.gitkeep
+  345  ls parent/child/grandchildren -a
+  346  rm lol.txt
+  347  ls
+  348  rm kill-me/ -r
+  349  ls
+  350  man cp
+  351  cp and-then.txt no-and-then.txt
+  352  ls 
+  353  cat and-then.txt
+  354  cat no-and-then.txt
+  355  history
+  356  history > command-history.txt
